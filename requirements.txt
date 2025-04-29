@@ -1,0 +1,5 @@
+streamlit
+gtts
+openai
+google-generativeai
+pyyaml
